@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usercode:UserCode xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:usercode="http://eads.ts.ate.hmi/configuration/usercode" name="APSS" id="1447136198354" configuratorId="RTC User Code Linux Template">
+  <inputs name="IMPORT">
+    <ioPoints name="startCmd" id="1447136198355" dataType="INT"/>
+    <ioPoints name="isDebug" id="1447224515624" dataType="INT"/>
+  </inputs>
+  <outputs name="EXPORT">
+    <ioPoints name="isHdRegist" id="1447136198356" dataType="INT"/>
+    <ioPoints name="isParaRun" id="1447136198357" dataType="INT"/>
+  </outputs>
+</usercode:UserCode>

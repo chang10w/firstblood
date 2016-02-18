@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC  -fmessage-length=0 -g  -shared -Wl,-soname,libAPSS.so -o libAPSS.so CMakeFiles/APSS.dir/APSS.o CMakeFiles/APSS.dir/ApsParaSvr.o CMakeFiles/APSS.dir/ApsHDSvr.o CMakeFiles/APSS.dir/ApsXmlOp.o CMakeFiles/APSS.dir/HDMessageHandle.o CMakeFiles/APSS.dir/CommonUtility.o -Wl,-Bstatic -lxml -Wl,-Bdynamic 
